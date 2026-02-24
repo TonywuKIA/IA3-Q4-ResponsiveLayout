@@ -1,0 +1,21 @@
+# Android
+.gradle/
+local.properties
+*.iml
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin
+*.class
+
+# Generated
+app/build/
+
+# Studio
+navigation.json
+workspace.xml
+tasks.xml
