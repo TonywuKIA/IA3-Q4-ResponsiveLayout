@@ -45,7 +45,6 @@ The UI uses a single vertical column where the options list appears above the de
 
 **Tablet / Wide mode (≥700dp):**  
 The layout adapts based on screen width (~700dp breakpoint).
-
 The UI switches to a two-pane layout. The navigation/options list stays on the left while the detail panel remains visible on the right.
 <img width="883" height="419" alt="image" src="https://github.com/user-attachments/assets/34b728ee-3733-4499-83d5-e1408fdf6c13" />
 
